@@ -1,6 +1,6 @@
-package ControlStatement.Q4;
+package ControlStatement;
 
-public class Test {
+public class Q4 {
     public static void main(String[] args) {
         int a = 0, sum = 0;
         while (a < 10) {

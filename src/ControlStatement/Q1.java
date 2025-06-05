@@ -1,4 +1,4 @@
-package ControlStatement.Q1;
+package ControlStatement;
 
 /*
  * 변수 n에 저장된 10진수를 2진수로 변환하여 출력하는 프로그램.
@@ -8,7 +8,7 @@ package ControlStatement.Q1;
  * 몫이 0이 될 때까지 이 작업을 반복한 후
  * 마지막에 구한 나머지부터 거꾸로 출력.
  * */
-public class Test {
+public class Q1 {
     public static void main(String[] args) {
         int[] a = new int[8];
         int i = 0;

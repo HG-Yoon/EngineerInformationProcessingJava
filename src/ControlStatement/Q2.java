@@ -1,6 +1,6 @@
-package ControlStatement.Q2;
+package ControlStatement;
 
-public class Test {
+public class Q2 {
     public static void main(String[] args) {
         int[][] ary = new int[3][5];
         int n = 1;

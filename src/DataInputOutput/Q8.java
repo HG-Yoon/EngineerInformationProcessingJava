@@ -1,6 +1,6 @@
-package DataInputOutput.Q8;
+package DataInputOutput;
 
-public class Test {
+public class Q8 {
     public static void main(String[] args) {
         int w = 3, x = 4, y = 3, z = 5;
         // 논리곱 (AND; ∧)
